@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-272f83ba","path":"/%E8%81%8C%E5%AE%98/%E5%93%81%E9%98%B6%E5%8B%8B%E7%88%B5.html","title":"品阶勋(xūn)爵(jué)","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701920441000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":1}]},"filePathRelative":"职官/品阶勋爵.md"}');export{e as data};

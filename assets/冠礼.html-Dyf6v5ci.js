@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-004a06e6","path":"/%E7%A4%BC%E4%BF%97/%E5%86%A0%E7%A4%BC.html","title":"冠礼","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701920441000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":1}]},"filePathRelative":"礼俗/冠礼.md"}');export{e as data};

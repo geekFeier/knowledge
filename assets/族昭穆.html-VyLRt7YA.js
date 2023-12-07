@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6f6ca214","path":"/%E5%AE%97%E6%B3%95/%E6%97%8F%E6%98%AD%E7%A9%86.html","title":"族昭穆","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701920441000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":1}]},"filePathRelative":"宗法/族昭穆.md"}');export{e as data};

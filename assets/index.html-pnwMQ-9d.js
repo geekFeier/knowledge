@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-434a69e4","path":"/%E5%AE%97%E6%B3%95/","title":"👨‍👩‍👧‍👦 宗法制度：古代中国社会的家族秩序","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701920441000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":1}]},"filePathRelative":"宗法/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0012e98b","path":"/%E9%A5%AE%E9%A3%9F/","title":"🍜 饮食","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701920441000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":1}]},"filePathRelative":"饮食/README.md"}');export{e as data};
