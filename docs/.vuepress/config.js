@@ -7,8 +7,8 @@ module.exports = {
   title: '中国古代文化常识',
   description: '中国古代文化常识', 
   head: [
-    ['link', { rel: 'icon', href: '/logo.ico' }],
-    ['link', { rel: 'stylesheet', href: '/theme/style.css' }],
+    ['link', { rel: 'icon', href: '/knowledge/logo.ico' }],
+    ['link', { rel: 'stylesheet', href: '/knowledge/theme/style.css' }],
   ],
 
   theme: defaultTheme({
