@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-57840471","path":"/%E5%AE%97%E6%B3%95/%E4%B8%A7%E6%9C%8D.html","title":"丧服","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701859471000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":2}]},"filePathRelative":"宗法/丧服.md"}');export{e as data};

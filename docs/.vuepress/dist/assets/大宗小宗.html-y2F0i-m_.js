@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-ace0acf8","path":"/%E5%AE%97%E6%B3%95/%E5%A4%A7%E5%AE%97%E5%B0%8F%E5%AE%97.html","title":"大宗小宗","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701859471000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":2}]},"filePathRelative":"宗法/大宗小宗.md"}');export{e as data};

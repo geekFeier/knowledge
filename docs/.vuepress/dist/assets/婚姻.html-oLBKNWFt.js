@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1f465bb2","path":"/%E7%A4%BC%E4%BF%97/%E5%A9%9A%E5%A7%BB.html","title":"婚姻","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701859471000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":2}]},"filePathRelative":"礼俗/婚姻.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6dc018be","path":"/%E7%A4%BC%E4%BF%97/%E4%B8%A7%E8%91%AC.html","title":"丧葬","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701859471000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":2}]},"filePathRelative":"礼俗/丧葬.md"}');export{e as data};
