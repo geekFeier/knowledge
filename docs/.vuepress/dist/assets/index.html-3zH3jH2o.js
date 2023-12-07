@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e1302a4","path":"/%E5%AE%AB%E5%AE%A4/","title":"🛖 宫室","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701859471000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":2}]},"filePathRelative":"宫室/README.md"}');export{e as data};

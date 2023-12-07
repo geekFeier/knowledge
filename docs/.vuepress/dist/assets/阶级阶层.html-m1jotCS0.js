@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-663d4f7a","path":"/%E7%A4%BC%E4%BF%97/%E9%98%B6%E7%BA%A7%E9%98%B6%E5%B1%82.html","title":"阶级、阶层","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701859471000,"contributors":[{"name":"geekfeier","email":"1831454438@qq.com","commits":2}]},"filePathRelative":"礼俗/阶级阶层.md"}');export{e as data};
